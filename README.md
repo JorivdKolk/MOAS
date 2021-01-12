@@ -1,7 +1,7 @@
 # Exquisite Fabrication: Exploring Turn-taking between Designers and Digital Fabrication Machines
 Digital fabrication and craftsmanship is entering into a new phase with increasing levels of complexity and a renewed desire for composites and cross-material experimentation. However, allowing work to travel from machine to machine, remains a challenge in terms of workflow, communication, orientation and material. Based on an exploration to combine embroidery and 3D printing in the pursuit of inflatable solutions, we propose the metaphor of the drawing game Exquisite Corpse to outline the three emerging concerns: turn taking, orientation and trade-offs. We propose a set of guidelines that suggest ways in which, we may allow different digital fabrication machines to be used in sequence, as a method for adding complexity to the things we make and the ways our machines may talk to one another.
 
-DOI:
+DOI: https://doi.org/10.1145/3411764.3445236
 
 # MOAS software
 Turn-taking between machines is achieved through the MOAS software. MOAS stands for Machine Operation Alignment System. This software can be used to align operations within a machine, e.g. position a digital model precisely within the build area of a 3D printer or align a digital embroidery machine to a previously made sample. MOAS was created as part of the aforementioned research.
